@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/thehello.dir/src/main.cpp.o  -o thehello src/lib/libhello.a 

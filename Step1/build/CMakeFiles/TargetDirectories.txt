@@ -1,0 +1,3 @@
+/home/kawhicurry/桌面/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/kawhicurry/桌面/cmake/build/CMakeFiles/cmake_study.dir
+/home/kawhicurry/桌面/cmake/build/CMakeFiles/edit_cache.dir

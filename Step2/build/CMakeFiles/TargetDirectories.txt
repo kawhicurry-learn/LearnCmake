@@ -1,0 +1,6 @@
+/home/kawhicurry/桌面/cmake/Step2/build/CMakeFiles/rebuild_cache.dir
+/home/kawhicurry/桌面/cmake/Step2/build/CMakeFiles/thehello.dir
+/home/kawhicurry/桌面/cmake/Step2/build/CMakeFiles/edit_cache.dir
+/home/kawhicurry/桌面/cmake/Step2/build/src/lib/CMakeFiles/rebuild_cache.dir
+/home/kawhicurry/桌面/cmake/Step2/build/src/lib/CMakeFiles/hello.dir
+/home/kawhicurry/桌面/cmake/Step2/build/src/lib/CMakeFiles/edit_cache.dir

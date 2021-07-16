@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cmake_study.dir/src/main.cc.o  -o cmake_study 
